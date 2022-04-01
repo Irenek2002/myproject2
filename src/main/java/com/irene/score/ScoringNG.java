@@ -1,4 +1,4 @@
-package com.irene;
+package com.irene.score;
 
 public class ScoringNG {
     public static void main(String[] args) {

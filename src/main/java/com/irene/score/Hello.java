@@ -1,4 +1,4 @@
-package com.irene;
+package com.irene.score;
 
 import org.w3c.dom.ls.LSOutput;
 
