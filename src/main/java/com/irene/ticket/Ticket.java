@@ -12,4 +12,7 @@ public class Ticket {
         this.start = start;
         this.destination = destination;
     }
+    public void print(){
+
+    }
 }
